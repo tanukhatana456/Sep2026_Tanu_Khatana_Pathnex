@@ -1,0 +1,4 @@
+30 mins - Git setup
+15 mins - English Speaking
+1.5 hours - GitHub to EC2 Videos
+
